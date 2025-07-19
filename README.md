@@ -14,4 +14,3 @@ Dieses Projekt demonstriert die Einrichtung eines zentralisierten Logmanagement-
 ## Schnellstart
 
 docker-compose up -d
-# logmanagement-graylog
