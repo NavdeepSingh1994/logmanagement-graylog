@@ -1,4 +1,4 @@
-# Zentrales Logmanagement mit Graylog
+# Zentrales Logmanagement mit Graylog (Aufgabe 3)
 
 ## Ziel
 Dieses Projekt demonstriert die Einrichtung eines zentralisierten Logmanagement-Stacks mit **Graylog**, **Elasticsearch** und **MongoDB** über Docker.
