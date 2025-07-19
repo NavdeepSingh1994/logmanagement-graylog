@@ -3,8 +3,6 @@
 ## Ziel
 Dieses Projekt demonstriert die Einrichtung eines zentralisierten Logmanagement-Stacks mit **Graylog**, **Elasticsearch** und **MongoDB** über Docker.
 
----
-
 ## Architektur
 
 - **Graylog:** Logmanagement und UI
@@ -12,10 +10,8 @@ Dieses Projekt demonstriert die Einrichtung eines zentralisierten Logmanagement-
 - **MongoDB:** Metadaten
 - **Input:** Apache Access Logs (Syslog oder GELF)
 
----
 
 ## Schnellstart
 
-```bash
 docker-compose up -d
 # logmanagement-graylog
